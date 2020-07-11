@@ -1,5 +1,5 @@
 %skeleton "lalr1.cc"
-%require  "3.0"
+%require  "3.6"
 %debug 
 %defines 
 %define api.namespace {MC}
